@@ -1,0 +1,8 @@
+todo-app/
+├── config/
+│   └── database.php
+├── auth/
+│   └── login.php
+├── dashboard.php
+├── logout.php
+└── index.php (redirect ke auth/login.php)
